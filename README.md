@@ -10,6 +10,9 @@ Findings from past research papers underscore the potential opportunity to inves
 
 Once this model is operational, we foresee that hosts would benefit significantly from a more insightful understanding of customer feedback. To achieve this, we propose to implement unsupervised learning in the form of topic modeling on Airbnb reviews. The aim is to uncover prevalent themes within guests' feedback, offering valuable insights into the focal points of guests' concerns. This knowledge will empower Airbnb hosts to address specific areas of concern and effectively meet their guests' expectations, thereby optimizing the user experience on the platform.
 
+## Notebook Description
+![Alt text](files_description.jpg)
+
 ## Summary of key findings for supervised and unsupervised learning
 **Finding for supervised learning :** Through the supervised learning work, we encountered instances where despite high traditional rating scores, underlying issues were discernible within the review text. Our model successfully identified these negative sentiments, recalibrating the review score based on the text itself to provide a more accurate reflection of the guest experience. This underlines the model's capacity to capture nuanced feedback often overlooked by conventional rating systems, thereby delivering a more comprehensive and authentic appraisal of the property quality.
 
